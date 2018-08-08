@@ -55,7 +55,7 @@ namespace 监控系统1
             thread.IsBackground = true;
             thread.Start();
 
-
+            //更改的在这里哦
 
         }
 
